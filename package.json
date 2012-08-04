@@ -1,0 +1,7 @@
+{
+  "author": "Geert Pasteels <geert.pasteels@gmail.com>",
+  "name": "background-magick",
+  "description": "Pipe an image to ImageMagick's composite and add it to a background.",
+  "version": "1.0.0",
+  "keywords": [ "imagemagick", "background", "composite" ]
+}
